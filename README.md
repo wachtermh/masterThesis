@@ -6,7 +6,7 @@ This repository contains the data and code to replicate all results, graphs and 
 * `bld`: Contains the resulting tables, figures and tables.
 
 ## Prerequisites
-
+* R (https://www.r-project.org/)
 
 ## Scripts
 * `indShare.R`
@@ -19,4 +19,6 @@ This repository contains the data and code to replicate all results, graphs and 
 * `genderMajMinGradient.R`
 
 ## Session Info
+```
 
+```
