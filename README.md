@@ -9,14 +9,14 @@ This repository contains the data and code to replicate all results, graphs and 
 * R (https://www.r-project.org/)
 
 ## Scripts
-* `indShare.R`
-* `indWage.R`
-* `variance.R`
-* `descriptiveTables.R`
-* `genderGradient.R`
-* `wageGradient.R`
-* `baselineRegressions.R`
-* `genderMajMinGradient.R`
+* `indShare.R`: Calculates the share of female employees in the respective inudstry.
+* `indWage.R`: Estimate adjusted gender wage gaps.
+* `variance.R`: Estimates firm and industry contact gap distributions.
+* `descriptiveTables.R`: Script for creating all descriptive tables.
+* `genderGradient.R`: Estimates and visualises the gender gradient.
+* `wageGradient.R`: Estimates and visualises the wage gradient.
+* `baselineRegressions.R`: Runs baseline regressions.
+* `genderMajMinGradient.R`: Estimates and visualises the gender gradient conditional on race.
 
 ## Session Info
 ```
