@@ -1,6 +1,20 @@
 # Hiring Discrimination: Determinants, Heterogeneity and Composition
 This repository contains the data and code to replicate all results, graphs and tables for my master thesis, "Hiring Discrimination: Determinants, Heterogeneity and Composition", submitted in August 2024 at the University of Bonn.
 
+## Replication
+Clone the repository on your device
+```
+git clone https://github.com/wachtermh/masterThesis
+```
+navigate to the root directory of the project and open the `masterThesis.Rproj` file.
+In R run 
+```
+renv::restore()
+```
+to install all packes with the respective version.
+
+Finally, execute all scripts in the order specified in the [Scripts](https://github.com/wachtermh/masterThesis/edit/main/README.md#scripts) section.
+
 ## Folder Structure
 * `src`: Contains the code and original data.
 * `bld`: Contains the resulting tables, figures and tables.
