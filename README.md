@@ -13,7 +13,7 @@ renv::restore()
 ```
 to install all packes with the respective version.
 
-Finally, execute all scripts in the order specified in the [Scripts](https://github.com/wachtermh/masterThesis/edit/main/README.md#scripts) section.
+Finally, execute all scripts in the order specified in the [Scripts](https://github.com/wachtermh/masterThesis?tab=readme-ov-file#scripts) section.
 
 ## Folder Structure
 * `src`: Contains the code and original data.
