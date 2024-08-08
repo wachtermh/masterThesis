@@ -6,7 +6,9 @@ Clone the repository on your device
 ```
 git clone https://github.com/wachtermh/masterThesis
 ```
-navigate to the root directory of the project and open the `masterThesis.Rproj` file.
+In the root directory, create a folder `bld` with subfolders `data`, `figures`, and `tables`.
+
+Navigate to the root directory of the project and open the `masterThesis.Rproj` file.
 In R run 
 ```
 renv::restore()
