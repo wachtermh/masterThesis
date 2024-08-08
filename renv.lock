@@ -186,6 +186,26 @@
       "Repository": "CRAN",
       "Hash": "da69e6b6f8feebec0827205aad3fdbd8"
     },
+    "broom": {
+      "Package": "broom",
+      "Version": "1.0.6",
+      "Source": "Repository",
+      "Repository": "RSPM",
+      "Requirements": [
+        "R",
+        "backports",
+        "dplyr",
+        "generics",
+        "glue",
+        "lifecycle",
+        "purrr",
+        "rlang",
+        "stringr",
+        "tibble",
+        "tidyr"
+      ],
+      "Hash": "a4652c36d1f8abfc3ddf4774f768c934"
+    },
     "bslib": {
       "Package": "bslib",
       "Version": "0.8.0",
@@ -238,7 +258,18 @@
     "cardx": {
       "Package": "cardx",
       "Version": "0.2.0",
-      "Source": "Repository"
+      "Source": "Repository",
+      "Repository": "RSPM",
+      "Requirements": [
+        "R",
+        "cards",
+        "cli",
+        "dplyr",
+        "glue",
+        "rlang",
+        "tidyr"
+      ],
+      "Hash": "7a00cecf9a296183d5d8df532f3daa75"
     },
     "cellranger": {
       "Package": "cellranger",

@@ -7,6 +7,8 @@ here::i_am("src/descriptiveTables.R")
 # Packages ----------------------------------------------------------------
 library(here)
 library(gtsummary)
+library(broom)
+library(cardx)
 library(collapse)
 library(labelled)
 library(readstata13)
