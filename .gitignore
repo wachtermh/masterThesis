@@ -357,3 +357,6 @@ outline/outline.pdf
 
 # Ignore bld folder
 bld/
+
+# Ignore IPUMS CPS data
+src/data/IPUMS_CPS.dta
