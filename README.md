@@ -21,9 +21,8 @@ Finally, execute all scripts in the order specified in the [Scripts](https://git
 
 ## Prerequisites
 * R (https://www.r-project.org/)
-In order to replicate the results, one needs data from IPUMS CPS (https://cps.ipums.org/cps/).
 
-Since this dataset is very large, it cannot be uploaded to GitHub. Instead, I put the file [here](https://1drv.ms/u/s!AjRu4TgGrQ2X20nA5nQMZ-0Mbkz8?e=VD38An) to download. 
+In order to replicate the results, one needs data from IPUMS CPS (https://cps.ipums.org/cps/). Since this dataset is very large, it cannot be uploaded to GitHub. Instead, I put the file [here](https://1drv.ms/u/s!AjRu4TgGrQ2X20nA5nQMZ-0Mbkz8?e=VD38An) to download. 
 ## Scripts
 * `indShare.R`: Calculates the share of female employees in the respective inudstry.
 * `indWage.R`: Estimate adjusted gender wage gaps.
